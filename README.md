@@ -1,2 +1,7 @@
-# OST_LAB_Experiments
-Open Source Technologies Lab Experiments (7th Semester)
+# OST_LAB
+
+Open Source Technologies Lab Experiments
+
+Subject Code : 18CS2064
+
+Faculty Name : Mr. D. SHIBIN
